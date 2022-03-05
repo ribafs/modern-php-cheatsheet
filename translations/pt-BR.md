@@ -14,11 +14,11 @@ Traduzido por: [Daniel Lemes](https://github.com/lemesdaniel)
 
 ### Motivação
 
-Este documento é um cheatsheet para PHP você encontrará essas dicas em projetos e exemplos de códigos modernos.
+Este documento é um cheatsheet para PHP e você encontrará essas dicas em projetos e exemplos de códigos modernos.
 
-Esse guia não tem intenção de ensinar PHP desde do início, mas ajudar denvolvedor com conhecimento básicos mas que tem dificuldades com projetos/frameworks modernos (como Laravel ou Symfony) devidos aos novos conceitos e características introduzidas ao PHP nos últimos anos.
+Esse guia não tem a intenção de ensinar PHP desde o início, mas ajudar denvolvedores com conhecimentos básicos mas que têm dificuldades com projetos/frameworks modernos (como Laravel ou Symfony) devido aos novos conceitos e características introduzidas ao PHP nos últimos anos.
 
-> **Nota:** Os conceitos aqui introduzidos são baseados na versão mais recente disponível do PHP ([PHP 8.0](https://www.php.net/releases/8.0/en.php) desde da última atualização)
+> **Nota:** Os conceitos aqui introduzidos são baseados na versão mais recente disponível do PHP ([PHP 8.0](https://www.php.net/releases/8.0/en.php) desde a última atualização)
 
 ### Recursos complementares
 
