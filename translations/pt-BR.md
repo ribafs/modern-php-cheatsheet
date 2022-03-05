@@ -1,7 +1,6 @@
-# Moderno PHP Cheatsheet
+# Cheatsheet do PHP Moderno
 
 ![Moderno PHP Cheatsheet](https://i.imgur.com/2STEtgG.png)
-
 
 > Se você gostar desse conteudo, você pode me chamar ou me seguir twitter :+1:
 
@@ -30,7 +29,7 @@ Quando tiver dificuldade em entender algum conceito, eu sugiro que você busque 
 
 ## Sumário
 
-- [Moderno PHP cheatsheet](#moderno-php-cheatsheet)
+- [Cheatsheet do PHP Moderno](#moderno-php-cheatsheet)
     * [Introdução](#introdução)
         + [Motivação](#motivação)
         + [Recursos complementares](#recursos-complementares)
@@ -78,7 +77,7 @@ $b = myFunction($undefined); // PHP Warning:  Undefined variable $undefined
 
 ![php-version-70](https://shields.io/badge/php->=7.0-blue)
 
-Com declaração de tipo você pode especificar o tipo de dado que uma propriedade irá receber e força-lo em rempo de execução. Isso funciona tanto com scalar types (int, string, bool, and float) como também array, iterable, object, stdClass, etc.
+Com declaração de tipo você pode especificar o tipo de dado que uma propriedade irá receber e força-lo em tempo de execução. Isso funciona tanto com tipos escalares (int, string, bool, and float) como também com arrays, iterable, object, stdClass, etc.
 
 Você pode definir o tipo de um parâmetro de uma função:
 
@@ -323,7 +322,7 @@ Ou desde PHP 7.1, a sintaxe curta (shorthand syntax):
 // $c = 'baz'
 ```
 
-Quando tentamos desestruturar um indexe inexistente recebemos um aviso (warning) e um valor null é lançado nessa posição:
+Quando tentamos desestruturar um índice inexistente recebemos um aviso (warning) e um valor null é lançado nessa posição:
 
 ```php
 list($a, $b, $c, $d) = $array; // PHP Warning:  Undefined array key 3
